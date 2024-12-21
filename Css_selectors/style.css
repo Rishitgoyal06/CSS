@@ -1,0 +1,28 @@
+/* Universal Selector */
+* {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Type Selector */
+p {
+    font-size: 16px;
+    color: blue;
+}
+
+/* ID Selector */
+#main-heading {
+    font-size: 24px;
+    color: white;
+    background-color: teal;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Class Selector */
+.highlight {
+    color: orange;
+    font-weight: bold;
+    text-decoration: underline;
+}
